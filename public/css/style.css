@@ -1,0 +1,47 @@
+
+body {
+	background-color: LemonChiffon;
+	background-image: url("../images/office.jpg");
+	background-image: url("../images/office.jpg");
+	background-position: center center;
+	background-size: cover;
+	background-attachment:fixed;
+	opacity: .92;
+
+}
+
+.jumbotron {
+	background: #485563;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #29323c, #485563);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #29323c, #485563); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+	height: 15rem;
+	width: 100%;
+	color: lightgrey;
+	background-position: center center;
+	background-size: cover;
+	margin-bottom: 0px;
+}
+
+.container {
+	background-color: black;
+	padding-top: 30px;
+}
+
+.form-text-color {
+	color: white;
+}
+
+#empty-db-alert {
+	display: none
+}
+
+.card {
+	margin: 1rem;
+	padding: 1rem;
+	background-color: Lavender;
+}
+
+.btn {
+	margin: 1rem;
+}
